@@ -26,3 +26,17 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) and Deep Learn
     * Reward --> Winning the chess game 
     * If the machine makes a good move, it's rewarded. Using this, the machine learns how to make the right chess moves. 
 ## Types of Supervised Learning
+### Classification 
+* About predicting a class or discrete values (male or female, true or false)
+* Important Algorithms
+    * Decision Tree Classification
+    * Random Forest Classification 
+    * K-nearest neighbor 
+### Regression 
+* About predicting a quantity or continuous value (salary, age, price, etc.)
+* Ex: Feeding in rainfall data at different temperatures to determine rainfall in cm for some temperature that data has not been provided for
+* Important Algorithms
+    * Logistic Regression
+    * Polynomial Regression 
+    * Support Vector Machines 
+## Types of Unsupervised Learning 
