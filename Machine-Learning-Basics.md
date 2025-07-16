@@ -8,6 +8,6 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) and Deep Learn
 * A technique that implements AI to learn from the data by themselves without being explicitly programmed. 
 ### Deep Learning 
 * A subfield of ML that uses Artificial Neural Networks to learn from the data. 
-* Artificial Neural Networks --> Mathematical models thare are connected like the neurons in our brain!
-[Artificial Neural Networks](artificial-neural-networks.png)
+* Artificial Neural Networks --> Mathematical models thare are connected like the neurons in our brain
+![Artificial Neural Networks](artificial-neural-networks.png)
 ## Types of Machine Learning 
