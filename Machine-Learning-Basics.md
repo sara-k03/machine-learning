@@ -11,3 +11,18 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) and Deep Learn
 * Artificial Neural Networks --> Mathematical models thare are connected like the neurons in our brain
 ![Artificial Neural Networks](artificial-neural-networks.png)
 ## Types of Machine Learning 
+### Supervised Learning 
+* The ML algorithm learns from labelled data. 
+* Ex: Feed labeled apple and mango images. Given an image of an apple or a mango, the algorithm will determine which it is. 
+### Unsupervised Learning 
+* No labels
+* Ex: A image of apples and mangoes is given. The algorithm will group the items in the image into Group 1 and Group 2. If you give it an image of an apple or mango, it will tell you which group it belongs to. 
+### Reinforcement Learning 
+* An area of ML concerned with how intelligent agents take action in an environment to maximize its rewards. 
+    * Example:
+    * Environment --> Chess baord 
+    * Agent --> Computer 
+    * Action --> Making a move 
+    * Reward --> Winning the chess game 
+    * If the machine makes a good move, it's rewarded. Using this, the machine learns how to make the right chess moves. 
+## Types of Supervised Learning
